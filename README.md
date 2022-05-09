@@ -31,5 +31,4 @@ Untuk mencapai visi tersebut melalui misi sebagai berikut:
 
 [![My Skills](https://skills.thijs.gg/icons?i=py,php,dart,css,figma,git,html,js,tailwind,nextjs,nuxtjs)](https://skills.thijs.gg)
 
-# STATUS
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SDN-Teja-2/SDN-Teja-2&repo=github-readme-stats)](https://github.com/SDN-Teja-2/SDN-Teja-2/github-readme-stats)
+
