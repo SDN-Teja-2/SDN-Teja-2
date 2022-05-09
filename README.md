@@ -31,4 +31,4 @@ Untuk mencapai visi tersebut melalui misi sebagai berikut:
 
 [![My Skills](https://skills.thijs.gg/icons?i=py,php,dart,css,figma,git,html,js,tailwind,nextjs,nuxtjs)](https://skills.thijs.gg)
 # BAHASA PEMOGRAMAN YANG DIGUNAKAN
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SDN-Teja-2&langs_count=8)](https://github.com/SDN-Teja-2/SDN-Teja-2)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SDN-Teja-2&langs_count=8)](https://github.com/SDN-Teja-2)
