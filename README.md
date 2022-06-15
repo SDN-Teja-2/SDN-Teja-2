@@ -1,4 +1,9 @@
 # PROFIL SDN TEJA II
+## Data:
+- NPSN: 20246133
+- NSS: 101021607044
+- Alamat: Blok Desa, Desat Teja KEcamatan Rajagaluh Kabupaten Majalengka
+
 ## Sejarah Berdiri
 SD Negeri Teja II didirikan pada tahun **1980**, di atas lahan seluas 550 meter persegi. 
 
@@ -29,7 +34,7 @@ Untuk mencapai visi tersebut melalui misi sebagai berikut:
 
 # PENGEMBANGAN DALAM TEKNOLOGI
 
-[![My Skills](https://skills.thijs.gg/icons?i=py,php,dart,css,figma,git,html,js,tailwind,nextjs,nuxtjs)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=py,php,dart,figma,js,tailwind,nuxtjs)](https://skills.thijs.gg)
 # BAHASA PEMOGRAMAN YANG DIGUNAKAN
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sdnteja2&langs_count=4)](https://github.com/sdnteja2/github-readme-stats)
