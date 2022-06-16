@@ -2,7 +2,7 @@
 ## Data:
 - NPSN: 20246133
 - NSS: 101021607044
-- Alamat: Blok Desa, Desat Teja KEcamatan Rajagaluh Kabupaten Majalengka
+- Alamat: Blok Desa, Desat Teja Kecamatan Rajagaluh Kabupaten Majalengka
 
 ## Sejarah Berdiri
 SD Negeri Teja II didirikan pada tahun **1980**, di atas lahan seluas 550 meter persegi. 
