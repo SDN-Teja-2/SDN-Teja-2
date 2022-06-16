@@ -5,7 +5,7 @@
 - Alamat: Blok Desa, Desat Teja Kecamatan Rajagaluh Kabupaten Majalengka
 
 ## Sejarah Berdiri
-SD Negeri Teja II didirikan pada tahun **1980**, di atas lahan seluas 550 meter persegi. 
+SD Negeri Teja II Kecamatan Rajagaluh Kabupaten Majalengka didirikan pada tahun **1980**, di atas lahan seluas 550 meter persegi. 
 
 SDN Teja II merupakan salah satu **SD Inpres** (Instruksi Presiden) pada Masa Pemerintahan Orde Baru Tahun 1973-1983 yang di gagas oleh presiden Suharto. 
 
